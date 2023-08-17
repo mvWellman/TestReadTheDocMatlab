@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Lumache - Python library for cooks and food lovers. how does this trigger an update?
 """
 
 __version__ = "0.1.0"
