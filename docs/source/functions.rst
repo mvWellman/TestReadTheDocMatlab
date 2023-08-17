@@ -3,4 +3,4 @@ PSProcess
 
 This is the PSProcess definition.
 
-.. autofunction:: lumache
+.. autofunction:: get_random_ingredients(kind=None)
