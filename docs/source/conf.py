@@ -10,7 +10,7 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
-matlab_src_dir = .
+matlab_src_dir = '.'
 matlab_show_property_default_value = True
 matlab_short_links = True
 
