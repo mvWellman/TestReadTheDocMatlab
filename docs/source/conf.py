@@ -10,12 +10,15 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
+matlab_show_property_default_value = True
+matlab_short_links = True
 
 extensions = [
     'sphinx.ext.viewcode',   
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
+    'sphinxcontrib.matlab',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
