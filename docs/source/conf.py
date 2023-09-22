@@ -22,7 +22,7 @@ extensions = [
     'sphinxcontrib.matlab',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_rtd_theme'
+    # 'sphinx_rtd_theme'
 ]
 
 intersphinx_mapping = {
